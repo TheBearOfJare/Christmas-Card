@@ -1,6 +1,6 @@
 confetti = function() {
     // spawn confetti shapes that fall from the top of the screen to the bottom
-    for (var i = 0; i < 220; i++) {
+    for (var i = 0; i < 180; i++) {
         const confetti = document.createElement("div")
         confetti.className = "confetti";
         confetti.style.left = Math.random() * window.innerWidth + "px";

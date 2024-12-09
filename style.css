@@ -2,7 +2,7 @@
     0%   {top: -10px; width: 15px;}
     25%  {width: var(--width);}
     50%  {width: 15px; left: var(--left); width: 10px; transform: rotate(var(--rotation));}
-    100% {top: 150%;}
+    100% {top: 137%;}
 }
 
 .confetti {
